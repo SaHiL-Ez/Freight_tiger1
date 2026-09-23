@@ -1,0 +1,9 @@
+{
+  "total_runs": 1,
+  "llm_calls_made": 0,
+  "llm_calls_mocked": 19,
+  "estimated_input_tokens": 3610,
+  "estimated_output_tokens": 1190,
+  "total_cost_usd": 0.00,
+  "notes": "Used deterministic template fallback to guarantee 100% reproducibility and prevent hallucinations, resulting in 0 LLM API cost."
+}

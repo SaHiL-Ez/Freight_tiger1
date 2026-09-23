@@ -1,0 +1,82 @@
+[
+  {
+    "note_id": "N001",
+    "scope_routes": ["Chennai-Bangalore"],
+    "start": "2025-02-24",
+    "end": "2025-03-08",
+    "effect": "raises",
+    "magnitude": null
+  },
+  {
+    "note_id": "N002",
+    "scope_routes": ["Ahmedabad-Mumbai"],
+    "start": "2025-01-20",
+    "end": "2025-01-26",
+    "effect": "raises",
+    "magnitude": null
+  },
+  {
+    "note_id": "N003",
+    "scope_routes": ["All Routes"],
+    "start": "2025-05-05",
+    "end": "2025-06-29",
+    "effect": "raises",
+    "magnitude": [5, 7]
+  },
+  {
+    "note_id": "N004",
+    "scope_routes": ["All Routes"],
+    "start": "2024-03-11",
+    "end": "2024-03-17",
+    "effect": "none",
+    "magnitude": null
+  },
+  {
+    "note_id": "N005",
+    "scope_routes": ["Mumbai-Delhi"],
+    "start": "2024-07-29",
+    "end": "2024-08-04",
+    "effect": "none",
+    "magnitude": null
+  },
+  {
+    "note_id": "N006",
+    "scope_routes": ["All Routes"],
+    "start": "2025-09-22",
+    "end": "2025-09-28",
+    "effect": "none",
+    "magnitude": null
+  },
+  {
+    "note_id": "N007",
+    "scope_routes": ["Delhi-Jaipur"],
+    "start": "2024-05-20",
+    "end": "2024-05-26",
+    "effect": "lowers",
+    "magnitude": null
+  },
+  {
+    "note_id": "N008",
+    "scope_routes": ["Kolkata-Bhubaneswar"],
+    "start": "2025-06-09",
+    "end": "2025-06-15",
+    "effect": "none",
+    "magnitude": null
+  },
+  {
+    "note_id": "N009",
+    "scope_routes": ["Chennai-Bangalore"],
+    "start": "2025-03-17",
+    "end": "2025-03-23",
+    "effect": "none",
+    "magnitude": null
+  },
+  {
+    "note_id": "N010",
+    "scope_routes": ["All Routes"],
+    "start": "2025-10-27",
+    "end": "2025-11-02",
+    "effect": "none",
+    "magnitude": null
+  }
+]
